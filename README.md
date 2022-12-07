@@ -26,6 +26,7 @@
 - O conceito de Flexbox do CSS
 - Melhorias na acessibilidade e refatoração
 - Adicionando as fontes e melhorando os textos
+- Desafio de se adicionar o Favicon executado
 - Aplicando alinhamentos e espaçamentos no main e no footer
 - Configurando a wave, deixando-a com animação
 
